@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $ cut -c1 | cat acrost_1
+echo $ cut -c1
